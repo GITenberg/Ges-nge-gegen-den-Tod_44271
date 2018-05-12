@@ -1,0 +1,27 @@
+_repo: Ges-nge-gegen-den-Tod_44271
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44271-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Kölwel, Gottfried
+    alias: Kolwel, Gottfried
+    birthdate: 1889
+    deathdate: 1958
+    gutenberg_agent_id: '42666'
+    url: http://www.gutenberg.org/2009/agents/42666
+description: ''
+gutenberg_issued: '2013-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44271'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry -- 20th century'
+- !lcc 'PT'
+title: Gesänge gegen den Tod
+url: http://www.gutenberg.org/ebooks/44271
